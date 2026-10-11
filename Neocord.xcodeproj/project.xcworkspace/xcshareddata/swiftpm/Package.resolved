@@ -3,7 +3,7 @@
     {
       "identity" : "deprecatedapikit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/JWIMaster/DeprecatedAPIKit",
+      "location" : "https://github.com/j-w-i/DeprecatedAPIKit",
       "state" : {
         "branch" : "master",
         "revision" : "90c36721b019e1cc91e08e5c027c4a5d1a801f6f"
@@ -12,7 +12,7 @@
     {
       "identity" : "diffabledatasources",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/JWIMaster/DiffableDataSources",
+      "location" : "https://github.com/j-w-i/DiffableDataSources",
       "state" : {
         "branch" : "master",
         "revision" : "f931852f132881ad104d60eb2d3feea09cf3bc35"
@@ -21,7 +21,7 @@
     {
       "identity" : "differencekit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/JWIMaster/DifferenceKit",
+      "location" : "https://github.com/j-w-i/DifferenceKit",
       "state" : {
         "branch" : "master",
         "revision" : "3e3107bdbd9987e70b7b4e38eb39b1d3bbe8714c"
@@ -30,7 +30,7 @@
     {
       "identity" : "etfkit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/JWIMaster/ETFKit",
+      "location" : "https://github.com/j-w-i/ETFKit",
       "state" : {
         "branch" : "main",
         "revision" : "41412c9448addebb57d1af5b15caf12e08736951"
@@ -39,7 +39,7 @@
     {
       "identity" : "foundationcompatkit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/JWIMaster/FoundationCompatKit.git",
+      "location" : "https://github.com/j-w-i/FoundationCompatKit.git",
       "state" : {
         "branch" : "master",
         "revision" : "bdc58f92c1fdf67a102698bb57effbacbed5e367"
@@ -48,7 +48,7 @@
     {
       "identity" : "foundationextensions",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/JWIMaster/FoundationExtensions",
+      "location" : "https://github.com/j-w-i/FoundationExtensions",
       "state" : {
         "branch" : "master",
         "revision" : "6a85e00bb47025831c355ae92722469e1e45a28f"
@@ -57,7 +57,7 @@
     {
       "identity" : "ibpcollectionviewcompositionallayout",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/JWIMaster/IBPCollectionViewCompositionalLayout",
+      "location" : "https://github.com/j-w-i/IBPCollectionViewCompositionalLayout",
       "state" : {
         "branch" : "master",
         "revision" : "0eea00d36de5f4d14c8e55752ab7b518d54eadd7"
@@ -66,7 +66,7 @@
     {
       "identity" : "modernsdkkit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/JWIMaster/ModernSDKKit",
+      "location" : "https://github.com/j-w-i/ModernSDKKit",
       "state" : {
         "branch" : "master",
         "revision" : "d506132e862b3e0e2b728857219a531d0d8fef8b"
@@ -75,7 +75,7 @@
     {
       "identity" : "nsjsonserialization-for-swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/JWIMaster/NSJSONSerialization-for-Swift",
+      "location" : "https://github.com/j-w-i/NSJSONSerialization-for-Swift",
       "state" : {
         "branch" : "master",
         "revision" : "7f30560fccca01843cff7ff1c6be4c0a1f066cac"
@@ -84,7 +84,7 @@
     {
       "identity" : "sfsymbolscompatkit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/JWIMaster/SFSymbolsCompatKit.git",
+      "location" : "https://github.com/j-w-i/SFSymbolsCompatKit.git",
       "state" : {
         "branch" : "master",
         "revision" : "b1a23b5a0fc2d35f20f4e791fb255e8d301f293a"
@@ -93,7 +93,7 @@
     {
       "identity" : "tsmarkdownparser",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/JWIMaster/TSMarkdownParser.git",
+      "location" : "https://github.com/j-w-i/TSMarkdownParser.git",
       "state" : {
         "branch" : "master",
         "revision" : "9bb060f515aa2e859c4f11e2738e6a324fd922fc"
@@ -102,7 +102,7 @@
     {
       "identity" : "uikitcompatkit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/JWIMaster/UIKitCompatKit.git",
+      "location" : "https://github.com/j-w-i/UIKitCompatKit.git",
       "state" : {
         "branch" : "master",
         "revision" : "daff93fb245678dba13448edbd557c1ffca1385b"
@@ -111,7 +111,7 @@
     {
       "identity" : "uikitextensions",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/JWIMaster/UIKitExtensions.git",
+      "location" : "https://github.com/j-w-i/UIKitExtensions.git",
       "state" : {
         "branch" : "master",
         "revision" : "ecbde6a6c88ace81f396303ab970f791ee4e749e"
